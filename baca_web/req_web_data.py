@@ -101,6 +101,8 @@ grab = lpse('http://lpse.acehtengahkab.go.id',2015,2016)
 #grab.ambil_kode()
 #grab.ambil_data()
 
+#gsgsg gjhgasd hjagdashjd
+
 """
 0 -> Kode Lelang
 1 -> 1196296
