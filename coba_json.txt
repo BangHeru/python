@@ -1,0 +1,11 @@
+{
+    "job": [
+        "PNS",
+        "Mahasiswa"
+    ],
+    "name": {
+        "last": "Gunawan",
+        "first": "Heru"
+    },
+    "age": 34
+}
